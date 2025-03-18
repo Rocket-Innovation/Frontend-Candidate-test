@@ -23,7 +23,7 @@ The answer will be the maximum total value of each node along the path. Which, i
 ## **Interactive Node-Based Calculator**  
 Create an interactive **node-based calculator** using **React** that allows users to dynamically connect nodes and perform calculations.  
 
-![image](https://github.com/user-attachments/assets/09274ac2-ff1a-4fff-898a-b477b4af2297)
+<img src="https://github.com/user-attachments/assets/09274ac2-ff1a-4fff-898a-b477b4af2297" width="500" />
 
 ### **Requirements**  
 
