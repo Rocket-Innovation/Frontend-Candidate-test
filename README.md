@@ -10,8 +10,6 @@ This example will have resulted in the red path.
 Please note that the path cannot be reversed. The path should either go up or down.
 The answer will be the maximum total value of each node along the path. Which, in this example, is 237.
 
-###Please use the language specified in your email assignment.###
-
 # Test case
 
 - input = `[[59], [73, 41], [52, 40, 53], [26, 53, 6, 34]]` output = `237`
