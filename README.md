@@ -1,5 +1,5 @@
 # Frontend-Candidate-test
-Shared test for candidates who apply to Rocket-innovation
+Frontend test for candidates who apply to Rocket-innovation
 
 ## Find the most Costly path
 Find the most Costly path from the Graph as follows:
